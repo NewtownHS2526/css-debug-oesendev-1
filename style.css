@@ -2,8 +2,8 @@
 /* Instructions: There are 50 intentional errors in this CSS file. Fix them all! */
 
 /* Error 1: Missing semicolon */
-* {
-    margin: 0
+body{
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
